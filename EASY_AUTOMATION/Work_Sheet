@@ -1,0 +1,41 @@
+Vehicles to build
+    Ground
+        Scout
+            2 Seater Light Scout            4x4     Unarmed
+            5 Seater Light  Armed Scout     4x4     1 Gun
+        Attack
+            4 Seater Heavy Armed Attack     6x6     1 Gun
+            8 Seater Heavy Armed Attack     8x8     2 Guns + Missile
+        Transport
+            Heavy Hauler Low Ride           8x8     6 Large Cargo
+            Heavy Hauler Offroad            8x8     4 Large Cargo + 1 Gun
+        Utility
+            Mining Vehicle                  8x8     5 Medium Cargo + 1 Gun
+    Air
+        Scout
+            Light Scout                     Small & Quick   2x Fixed Gatlings
+        Attack
+            Heavy Armed Attack              Murder Ship     8x Gatling Turrets + 2x Missile Turrets + 4x H.Missiles
+        Transport
+            Heavy Hauler                    3x Detachable Large Cargo  1x Gatling Turret
+        Utility
+            Light Drone Miner               3x Drills
+            Moderate Drone Miner            6x Drills
+            Heavy Drone Miner               9x Drills
+            Piloted Miner                   4x Drills
+            Welder / Grinder Ship           Must be able grind and Welder
+            Tug                             Move crashed ship, pick up heavy loads
+    Space
+        Scout
+            Light Scout                     Small & Quick   2x Fixed Gatlings
+        Attack
+            Heavy Armed Attack              Murder Ship     8x Gatling Turrets + 2x Missile Turrets + 4x H.Missiles
+        Transport
+            Heavy Hauler                    3x Detachable Large Cargo  1x Gatling Turret
+        Utility
+            Light Drone Miner               3x Drills
+            Moderate Drone Miner            6x Drills
+            Heavy Drone Miner               9x Drills
+            Piloted Miner                   4x Drills
+            Welder / Grinder Ship           Must be able grind and Welder
+            Tug                             Move crashed ship, pick up heavy loads
